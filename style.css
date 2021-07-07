@@ -97,7 +97,9 @@ body{
 .container .card:nth-child(6) .content span{
     color:#14af92;
 }
-
+.container .card:nth-child(7) .content span{
+    color:#795548;
+}
 
 .container .card:nth-child(1) .circle{
     background : #ffaf00;
@@ -116,6 +118,9 @@ body{
 }
 .container .card:nth-child(6) .circle{
     background : #14af92;
+}
+.container .card:nth-child(6) .circle{
+    background : #795548;
 }
 
 /* width */
