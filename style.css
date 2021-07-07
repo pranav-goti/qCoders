@@ -74,9 +74,9 @@ body{
     position: relative;
 }
 .container .card .content span{
-    font-size: 35px;
+    font-size: 30px;
     position: relative;
-    bottom: 60px;
+    bottom: 50px;
     font-weight: 700;
 }
 .container .card:nth-child(1) .content span{
